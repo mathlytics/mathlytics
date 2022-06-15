@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mathlytics/static/css/main.964fdded.css",
+    "main.js": "/mathlytics/static/js/main.da5df238.js",
+    "static/js/787.f2e344c1.chunk.js": "/mathlytics/static/js/787.f2e344c1.chunk.js",
+    "index.html": "/mathlytics/index.html",
+    "main.964fdded.css.map": "/mathlytics/static/css/main.964fdded.css.map",
+    "main.da5df238.js.map": "/mathlytics/static/js/main.da5df238.js.map",
+    "787.f2e344c1.chunk.js.map": "/mathlytics/static/js/787.f2e344c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.da5df238.js"
+  ]
+}
